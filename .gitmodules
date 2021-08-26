@@ -1,0 +1,4 @@
+# Submodule for Ruffle-rs/ruffle, an open source flash player emulator written in Rust that can handle this project.
+[submodule "Ruffle-rs/Ruffle"]
+	path = Snail-bob-maker/Ruffle/Ruffle-rs
+	url = https://github.com/ruffle-rs/ruffle
