@@ -1,0 +1,26 @@
+
+---
+
+{{int:version-credits-summary}}
+Snail Bob Maker is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of Snail Bob Maker
+2. No other contributors as of Thursday, August 26th 2021
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. @GitHub (For GitHub, and for being the first host of this project)
+3. @agame (Not on GitHub, but I am crediting them here, as they are the creators of the original Snail Bob game series)
+4. @Macromedia_Inc (Not on GitHub, but I am crediting them here, as they created the ActionScript game that enabled Snail Bob and this project
+5. @CoolMathGames (Not on GitHub, but I am creding them here, as they introduced me and many others to many great flash games, including Snail Bob)
+6. @Ruffle-rs (For helping preserving flash, and providing the Ruffle flash player that this project depends on
+7. @a10game (Not on GitHub, but I am crediting them here, as they may be the creators of the original Snail Bob Game series)
+8. No other contributors as of Thursday, August 26th 2021
+
+---
