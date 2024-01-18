@@ -1,25 +1,26 @@
 
 ***
 
-# The Snail-bob-maker project
+# The Snail-bob-maker projekti
 
 <!-- Remove the parantheses in the title header for better readability !-->
   
-![SnailBobIcon.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/SnailBobIcon.png)
+![SnailBobIcon.png epäonnistui lataamisessa. Se voi johtua siitä, että tiedostoa ei tavoitettu, tai yleisestä virheestä. Päivitä sivu korjataksesi mahdollisen virheen.](../SnailBobIcon.png)
+
 
 # By:
 
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Image2.svg) !-->
+<!-- ![{Developer name} epäonnistui lataamisessa. Se voi johtua siitä, että tiedostoa ei tavoitettu, tai yleisestä virheestä. Päivitä sivu korjataksesi mahdollisen virheen.](/Image2.svg) !-->
 
 ## [Seanpm2001](https://github.com/seanpm2001/) / [Snail-bob-maker](https://github.com/Snail-bob-maker), Et; Al.
   
-### Top
+z### Yleistä
 
 # `README.md`
 
 ***
 
-## Read this article in a different language
+## Lue tämä artikkeli eri kielellä
 
 _🌐 List of languages_
 
@@ -37,73 +38,73 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 ***
 
-# Index
+# Indeksi
 
-[00.0 - Top](#Top)
+[00.0 - Top](#Yleistä)
 
-> [00.1 - Title](#The-Snail-bob-maker-project)
+> [00.1 - Otsikko](#The-Snail-bob-maker-projekti)
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+> [00.2 - Lue tämä artikkeli eri kielellä](#Lue-tämä-artikkeli-eri-kielellä)
 
-> [00.3 - Index](#Index)
+> [00.3 - Indeksi](#Indeksi)
 
-[01.0 - Description](#Snail-bob-maker)
+[01.0 - Kuvaus](#Snail-bob-maker)
 
-[02.0 - About](#About)
+[02.0 - Tietoa](#Tietoa)
 
-[03.0 - History](#History)
+[03.0 - Historia](#Historia)
   
-> [03.1 - Pre-history](#Pre-history)
+> [03.1 - Jälki-Historia](#Jälki-historia)
 
-> [03.2 - Alpha History](#Alpha-history)
+> [03.2 - Alpha Historia](#Alpha-historia)
 
-> [03.3 - Beta History](#Beta-history)
+> [03.3 - Beta Historia](#Beta-historia)
 
-> [03.4 - Modern History](#Modern-history)
+> [03.4 - Moderni Historia](#Moderni-historia)
 
 [04.0 - Wiki](#Wiki)
 
-[05.0 - Copying](#Copying)
+[05.0 - kopiointi](#kopiointi)
 
-[06.0 - Credits](#Credits)
+[06.0 - Kunniamaininnat](#Kunniamaininnat)
 
-[07.0 - Authors](#Authors)
+[07.0 - Tekijät](#Tekijät)
 
-[08.0 - Installation](#Installation)
+[08.0 - Asennus](#Asennus)
 
-[09.0 - 404 page](#404-page)
+[09.0 - 404 sivu](#404-sivu)
 
-[10.0 - Version history](#Version-history)
+[10.0 - Versio Historia](#Versio-historia)
 
-[11.0 - Software status](#Software-status)
+[11.0 - Ohjelmiston Tila](#Ohjelmiston-tila)
 
-[12.0 - Sponsor info](#Sponsor-info)
+[12.0 - Sponsori info](#Sponsori-info)
 
-[13.0 - Contributers](#Contributers)
+[13.0 - Osallistujat](#Osallistujat)
 
-[14.0 - Issues](#Issues)
+[14.0 - Ongelmat](#Ongelmat)
 
-> [14.1 - Current issues](#Current-issues)
+> [14.1 - Nykyiset Ongelmat](#nykyiset-ongelmat)
 
-> [14.2 - Past issues](#Past-issues)
+> [14.2 - Menneet Ongelmat](#menneet-ongelmat)
 
-> [14.3 - Past pull requests](#Past-pull-requests)
+> [14.3 - Menneet Vetopyynnöt](#menneet-vetopyynnöt)
 
-> [14.4 - Active pull requests](#Active-pull-requests)
+> [14.4 - Aktiiviset Vetopyynnöt](#aktiiviset-vetopyynnöt)
 
-[15.0 - Resources](#Resources)
+[15.0 - Resurssit](#Resurssit)
 
-[16.0 - Contributing](#Contributing)
+[16.0 - Avustajat](#Avustajat)
 
-[17.0 - About README](#About-README)
+[17.0 - Tietoja README:stä](#Tietoja-README:stä)
 
-[18.0 - README Version history](#README-version-history)
+[18.0 - README:n versio historia](#README:n-versio-historia)
 
-[19.0 - Technical notes](#Technical-notes)
+[19.0 - Tekniset huomautukset](#Tekniset-huomautukset)
 
-[20.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[20.0 - Olet saapunut README-tiedoston loppuun](#Olet-saapunut-README-tiedoston-loppuun)
 
-> [20.9 - End of file](#EOF)
+> [20.9 - Tiedoston Loppu](#EOF)
 
 ***
 
@@ -112,237 +113,234 @@ Snail bob maker is a free and open source level maker for the old flash game ser
 
 ***
 
-## About
+## Tietoa
 
 See above. Snail Bob Maker is an expansion of the Snail bob flash game series that prominently features an advanced level editor. It has been rewritten in its native language (ActionScript) and also has plans to be ported to Python, C++, HTML5, Java, and more.
 
 ***
   
-## History
+## Historia
 
 This project has a short history so far.
 
-### Pre-history
+### Jälki-historia
 
-This project was started on September 10th 2020 out of nostalgia for old flash games, Snail Bob being the one I became most nostalgic for today. The project was started on this day, but most of its foundation wasn't laid until the next day on September 11th 2020.
+Projekti aloitettiin 10. syyskuuta 2020 vanhojen flash-pelien nostalgiaa varten, joista Snail Bob oli se, josta tänään tuli eniten nostalgista. Projekti aloitettiin tänä päivänä, mutta sen perusta ei ollut valmis ennen seuraavaa päivää 11. syyskuuta 2020.
 
-On September 11th 2020, the project received its foundation, including some starter source code, 2 songs from the original game series soundtrack, and directory creation.
+11. syyskuuta 2020 projekti sai perustuksensa, mukaan lukien joitain aloituslähdetiedostoja, 2 kappaletta alkuperäisestä pelisarjan soundtrackista ja hakemistojen luominen.
 
-### Alpha history
+### Alpha Historia
 
 On 2021, August 25th, I got this project more up to date, adding a project language file, adding new x-text files (`AUTHORS` `COPYING` `CREDITS` `INSTALL`) and a makefile. The project was further updated the next day and was modernized further. A `README.md` file was created, along with a website.
 
-### Beta history
+2021, Elokuun 25 päivänä, saini tämän projektin ajan tasalle, lisäämällä projektin kieli-tiedoston, lisäämällä uusia x-tekstitiedostoja (`AUTHORS` `COPYING` `CREDITS` `INSTALL`) ja makefile. Projektia päivitettiin edelleen seuraavana päivänä ja sitä modernisoitiin edelleen. `README.md` -tiedosto luotiin yhdessä verkkosivuston kanssa.
 
-No Beta history to show for this project.
+### Beta Historia
 
-### Modern history
+Ei beta historiaa tästä projektista.
 
-No Modern history to show for this project.
+### Moderni Historia
+
+Ei modernia historiaa tästä projektista.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/Snail-bob-maker/Snail-bob-maker/wiki/)
+[Klikkaa/tappaa tästä nähdäksesi tämän projektin Wikin](https://github.com/Snail-bob-maker/Snail-bob-maker/wiki/)
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+Jos projekti on haarukoitunut, Wiki on todennäköisesti poistettu. Onneksi sisällytän upotetun version. Voit tarkastella sitä [täällä](../External/ProjectWiki/).
 
-***
+## Kopiointi
 
-## Copying
+Katso kopioinnin lisenssi tälle projektille [täältä](/COPYING) jos et ole vielä rakentanut projektia makefilella, tässä on alkuperäinen linkki: [COPYINGL](../COPYINGL)
 
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
-
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
+Huomaa, että sinun on myös noudatettava GNU General Public License v3 (GPL3) -sääntöjä, joita voit tarkastella [täältä](/LICENSE.txt)
 
 ***
 
-## Credits
+## Kunniamaininnat
 
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+Katso tämän projektin kunniamaininnat ja katso ihmiset, jotka kokoontuivat tekemään tämän projektin [täältä](../CREDITS)
+***
+
+## Tekijät
+
+Katso tämän projektin tekijät ja katso tämän projektin tekijät [täältä](../AUTHORS)
+***
+
+## Asennus
+
+Katso tämän projektin asennusohjeet [täältä](../INSTALL)
+
+Vaaditut: Jekyll, GitHub-emulaattori (ei ehkä ole vielä olemassa)
 
 ***
 
-## Authors
+## 404 sivu
 
-View the authors file for this project and see the authors of this project by [clicking/tapping here](/AUTHORS)
+Testi 404-sivu tälle projektille [klikkaamalla / napauttamalla tästä](../Site/404/THIS-WILL-NEVER-WORK/ABJAB/DXV48/22846/FILE.xabcdfgxlma329)
 
-***
-
-## Installation
-
-View the installation instructions file for this project [here](/INSTALL)
-
-Requirements: Jekyll, GitHub emulator (may not exist yet)
+Saatko erilaisen 404-sivun? Katso 404-sivu suoraan [klikkaamalla / napauttamalla tästä](../404.htm;)
 
 ***
 
-## 404 page
+## Sponsori info
 
-Test the 404 page for this project by [clicking/tapping here](/Site/404/THIS-WILL-NEVER-WORK/ABJAB/DXV48/22846/FILE.xabcdfgxlma329)
+![SponsorButton.png](../SponsorButton.png)
 
-Getting a different 404 page? View the 404 page directly by [clicking/tapping here](/404.htm;)
+Sinä voit sponsoroida tätä projektia, jos haluat, mutta ilmoita, mihin haluat lahjoittaa. [Katso varat, joihin voit lahjoittaa täältä](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
 
-***
+Voit tarkastella muita sponsoritietoja [täältä](https://github.com/seanpm2001/Sponsor-info/)
 
-## Sponsor info
-
-![SponsorButton.png](/SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+Kokeile sitä! Sponsorointipainike on aivan vieressä katso / lopeta -painiketta.
 
 ***
 
-## Version history
+## Versio historia
 
-**Version history currently unavailable**
+**Versio historia ei ole tällä hetkellä saatavilla**
 
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](/DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman/) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation/)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
+**Ei muita versioita**
 
 ***
 
-## Contributers
+## Ohjelmiston tila
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+Kaikki työni ovat ilmaisia ​​joitain rajoituksia. DRM (**D**igitaalinen **R**ajoitus **H**halinta) ei ole läsnä missään töissäni.
+
+![DRM-free_label.en.svg](../DRM-free_label.en.svg)
+
+Tätä tarraa tukee Free Software Foundation. En aio sisällyttää DRM: ää töihini.
+
+Käytän lyhennettä "Digitaalinen rajoitusten hallinta" sen sijaan, että käytettäisiin yleisempää "Digitaalinen oikeuksien hallinta", koska yleinen tapa käsitellä sitä on väärä, DRM:llä ei ole oikeuksia. Oikeinkirjoitus "Digitaalinen rajoitusten hallinta" on tarkempi ja sitä tukee [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman/) ja [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation/)
+
+Tämä osio on tarkoitettu tietoisuuden lisäämiseen DRM:n ongelmista ja myös sen vastustamiseen. DRM on suunniteltu vialliseksi ja se on suuri uhka kaikille tietokoneiden käyttäjille ja ohjelmistovapaudelle.
+
+Kuvan lähde: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
+***
+
+## Osallistujat
+
+Osallistuminen on sallittua, kunhan noudatat [CONTRIBUTING.md](/CONTRIBUTING.md) -tiedoston sääntöjä.
 
 > * 1. [seanpm2001](https://github.com/seanpm2001/) - 75 commits (As of 2021, August 26th at 9:00 pm)
 
 > * 2. [Jooapa](https.//github.com/Jooapa/) - 1 commit (As of 2024, January 18th at 01.30 am)
 
-> * 3. No other contributers as of 2024, January 18th at 01.30 am
-
 ***
 
-## Issues
+## Ongelmat
 
-### Current issues
+### Nykyiset ongelmat
 
-* None at the moment
+* Ei nykyisiä ongelmia
 
-* No other current issues
+* Ei muita nykyisiä ongelmia
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+Jos repositorio on haarukoitunut, ongelmat on todennäköisesti poistettu. Onneksi pidän arkistoa tietyistä kuvista [täällä](Issues/)
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+[Lue yksityisyyskäytäntö ongelman arkistoinnista täältä](Issues/README.md)
+
+**TL;DR**
+
+Minä arkistoin omat ongelmani. Ongelmaasi ei arkistoida, ellet pyydä sitä arkistoitavaksi.
+
+### Menneet ongelmat
+
+* Ei menneitä ongelmia
+
+* Ei muita menneitä ongelmia
+
+Jos repositorio on haarukoitunut, ongelmat on todennäköisesti poistettu. Onneksi pidän arkistoa tietyistä kuvista [täällä](Issues/)
+
+[Lue yksityisyyskäytäntö ongelman arkistoinnista täältä](Issues/README.md)
 
 **TL;DR**
 
 I archive my own issues. Your issue won't be archived unless you request it to be archived.
 
-### Past issues
+### Menneet vetopyynnöt 
 
-* None at the moment
+* Ei vetopyyntöjä
 
-* No other past issues
+* Ei muita menneitä vetopyyntöjä
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+Jos repositorio on haarukoitunut, ongelmat on todennäköisesti poistettu. Onneksi pidän arkistoa tietyistä kuvista [täällä](Issues/)
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+[Lue yksityisyyskäytäntö ongelman arkistoinnista täältä](Issues/README.md)
 
 **TL;DR**
 
 I archive my own issues. Your issue won't be archived unless you request it to be archived.
 
-### Active pull requests
+### Aktiiviset vetopyynnöt
 
-* [Pull request #1](https://github.com/seanpm2001/Snail-bob-maker/pull/6/commits)
+* [Veto pyyntö #6](https://github.com/seanpm2001/Snail-bob-maker/pull/6/commits)
 
-* No other active pull requests
+* Ei muita aktiivisia vetopyyntöjä
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+Jos repositorio on haarukoitunut, ongelmat on todennäköisesti poistettu. Onneksi pidän arkistoa tietyistä kuvista [täällä](Issues/)
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+[Lue yksityisyyskäytäntö ongelman arkistoinnista täältä](Issues/README.md)
 
 **TL;DR**
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+Arkistoidut ongelmat. Sinun on pyydettävä ongelmaasi arkistoitavaksi, jos haluat sen arkistoitavan.
 
 ***
 
-## Resources
+## Resurssit
 
-Here are some other resources for this project:
+Tässä on joitain muita resursseja tälle projektille:
 
-[Project language file A](/PROJECT_LANG_1.as)
+Katso 
 
-[Project language file A](/PROJECT_LANG_1.htm)
+[Projekti kieli-tiedosto A](/PROJECT_LANG_1.as)
 
-[View the editor configuration file for this project](/.editorconfig)
+[Projekti kieli-tiedosto A](/PROJECT_LANG_1.htm)
 
-[View the linguist attributes file for this project](/.gitattributes)
+[Katso editori config tiedosto tälle projektille](/.editorconfig)
 
-[View the Git Ignore file for this project](/.gitignore)
+[Katso tämän projektin lingvistin attribuuttitiedostoa](/.gitattributes)
 
-[View the organization for this project](https://github.com/Snail-bob-maker/)
+[Näytä tämän projektin Git Ignore -tiedosto](/.gitignore)
 
-[Build/view the makefile for this project](/makefile.mk)
+[Katso tämän projektin organisaatio](https://github.com/Snail-bob-maker/)
 
-[Join the discussion on GitHub](https://github.com/Snail-bob-maker/Snail-bob-maker/discussions/)
+[Rakenna/tarkastele tämän projektin makefile](/makefile.mk)
 
-[View the issues/Raise an issue for this project](https://github.com/Snail-bob-maker/Snail-bob-maker/issues/)
+[Liity keskusteluun GitHubissa](https://github.com/Snail-bob-maker/Snail-bob-maker/discussions/)
 
-No other resources at the moment.
+[Katso ongelmat / Nosta ongelma tähän projektiin](https://github.com/Snail-bob-maker/Snail-bob-maker/issues/)
 
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
+Ei muita resursseja, tällä hetkellä.
 
 ***
 
-## About README
+## Avustajat
 
-File type: `Markdown (*.md)`
+Avustajat ovat tervetulleita tähän projektiin, kunhan noudatat `CONTRIBUTING.md` -tiedoston sääntöjä.
 
-File version: `1 (Thursday, 2021 August 26th at 9:00 pm)`
-
-Line count: `0,538`
+[Klikkaa/tappaa tästä nähdäksesi tämän projektin säännöt](/CONTRIBUTING.md)
 
 ***
 
-## README version history
+## Tietoja README:stä
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+Tiedosto tyyppi: `Markdown (*.md)`
 
-> Changes:
+Tiedosto versio: `1 (Torstai, 2021 Elokuun 26. klo 21:00)`
+
+Rivi määrä: `0,537`
+
+***
+
+## README:n versio historia
+
+Versio 0.1 (Sunnuntain, 21. Maaliskuu 2021 klo 19:50)
+
+> Muutokset:
 
 > * Started the file
 
@@ -380,9 +378,9 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 0.11 (Friday, July 16th 2021 at 9:20 pm)
+Versio 0.11 (Perjantai, 16. Heinäkuuta 2021 klo 21:20)
 
-> Changes:
+> Muutokset:
 
 > * Updated several sections with corrected template syntax
 
@@ -396,9 +394,9 @@ Version 0.11 (Friday, July 16th 2021 at 9:20 pm)
 
 > * No other changes in version 0.11
 
-Version 0.11B (Friday, July 16th 2021 at 9:25 pm)
+Versio 0.11B (Perjantai, 16. Heinäkuuta 2021 klo 21:25)
 
-> Changes:
+> Muutokset:
   
 > * Fixed the footer, removed bad link (ddg.com does not redirect to duckduckgo)
   
@@ -408,9 +406,9 @@ Version 0.11B (Friday, July 16th 2021 at 9:25 pm)
 
 > * No other changes in version 0.11B
 
-Version 0.12A (Thursday, July 22nd 2021 at 6:26 pm)
+Versio 0.12A (Torstai, 22. Heinäkuuta 2021 klo 18:26)
 
-> Changes:
+> Muutokset:
   
 > * The typo `SNU Erotica` was removed entirely
 
@@ -430,9 +428,9 @@ Version 0.12A (Thursday, July 22nd 2021 at 6:26 pm)
 
 > * No other changes in version 0.11B
 
-Version 0.13 (2021, Saturday August 21st 2021 at 5:02 pm)
+Versio 0.13 (2021, Lauantai Elokuun 21. 2021 klo 17:02)
 
-> Changes:
+> Muutokset:
   
 > * Times are now compliant with ISO:8601 and use YYYY-MM-DD rather than MM-DD-YYYY
 
@@ -464,9 +462,9 @@ Version 0.13 (2021, Saturday August 21st 2021 at 5:02 pm)
 
 > * No other changes in version 6 (0.13)
 
-Version 0.14 (2021, Tuesday August 24th 2021 at 9:31 pm)
+Versio 0.14 (2021, Tiistai Elokuun 24. 2021 klo 21:31)
 
-> Changes:
+> Muutokset:
   
 > * Times are now compliant with ISO:8601 and use YYYY-MM-DD rather than MM-DD-YYYY
 
@@ -482,9 +480,9 @@ Version 0.14 (2021, Tuesday August 24th 2021 at 9:31 pm)
 
 > * No other changes in version 6 (0.13)
 
-Version 1 (2021, Sunday August 26th at 9:00 pm)
+Versio 1 (2021, Sunnuntai Elokuun 26. 2021 klo 21:00)
 
-> Changes:
+> Muutokset:
 
 > * Inherited the history of Template_GitHubPages_Default_V7
 
@@ -504,35 +502,36 @@ Version 1 (2021, Sunday August 26th at 9:00 pm)
 
 > * No other changes in version 1
 
-Version 1.0.1 (2024, January 18th at 01:30 am)
+Versio 1.0.1 (2021, Keskiiviikko Tammikuun 18. 2024 klo 01:30)
 
-> Changes:
+> Muutokset:
 
 > * Added Finnish translation to README.md
 
 > * Updated to Pull Request #6
 
+
 Version 2 (Coming soon)
 
-> Changes:
+> Muutokset:
 
-> * Coming soon
+> * Tulossa pian
 
-> * No other changes in version 2
-
-***
-
-## Technical notes
-
-**All times are UTC-7 (PDT/Pacific Time)**
-
-**The encoding is UTF-8 and is compatible with Unicode 5.0 and up**
+> * Ei muita muutoksia versiossa 2
 
 ***
 
-## You have reached the end of the README file
+## Tekniset huomautukset
 
+**Kaikki ajat ovat UTC-7 (PDT/Tyynenmeren aika)**
+**Koodaus on UTF-8 ja yhteensopiva Unicode 5.0:n ja sitä uudempien kanssa**
+
+***
+
+## Olet saapunut README-tiedoston loppuun
 ( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
+
+( [Takaisin ylös](#Top) | [Poistu GitHubiin](https://github.com) | [Poistu Bingiin](https://www.bing.com/) | [Poistu DuckDuckGouhun](https://duckduckgo.com/) | [Poistu Ecosiaan](https://www.ecosia.org/) | [Poistu Swisscowsiin](https://www.swisscows.com/) )
 
 ### EOF
 
